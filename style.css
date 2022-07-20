@@ -46,7 +46,8 @@ a {
 header {
   background-color: var(--dark);
   color: var(--pure);
-  margin-top: 6rem !important;
+  margin-top: 4rem !important;
+  margin-bottom: 6rem !important;
   border-radius: 30px;
   padding: 0 0 0 4rem;
 }
